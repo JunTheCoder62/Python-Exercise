@@ -45,10 +45,10 @@ Buat sebuah fungsi bernama is_even(n) yang menerima satu argumen berupa bilangan
 
 **Exercise #9: boolean**
 ---
-1.Buat sebuah modul bernama math_operations.py 
-2.Isi fungsi-fungsi untuk penjumlahan, pengurangan, perkalian, dan pembagian dua angka
-3.Buat program utama yang mengimpor modul tersebut
-4.Gunakan untuk melakukan operasi pada dua bilangan yang dimasukkan oleh pengguna.
+1. Buat sebuah modul bernama math_operations.py 
+2. Isi fungsi-fungsi untuk penjumlahan, pengurangan, perkalian, dan pembagian dua angka
+3. Buat program utama yang mengimpor modul tersebut
+4. Gunakan untuk melakukan operasi pada dua bilangan yang dimasukkan oleh pengguna.
 
 
 
