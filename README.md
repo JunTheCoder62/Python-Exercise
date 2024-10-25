@@ -28,7 +28,7 @@ Buat sebuah program yang meminta pengguna memasukkan nilai ujian.
 ---
 Buat sebuah fungsi bernama faktorial(n) yang menerima satu argumen berupa bilangan bulat n dan mengembalikan faktorial dari n. Contoh, output untuk faktorial(5) adalah 120.
 
-**Exercise #6: **
+Exercise #6: 
 ---
 listBuat sebuah program yang meminta pengguna memasukkan 5 nama buah dan menyimpannya dalam sebuah list. Tampilkan daftar buah tersebut dalam urutan terbalik.
 
