@@ -44,3 +44,4 @@ Buat sebuah kamus (dictionary) yang berisi nama buah sebagai kunci dan harga bua
 Buat sebuah fungsi bernama is_even(n) yang menerima satu argumen berupa bilangan bulat n dan mengembalikan True jika bilangan tersebut genap, dan False jika ganjil.
 
 
+# Congratulation for finishing this Exercise, you can see the Cheatsheet NOW !!!
