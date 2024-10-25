@@ -17,7 +17,7 @@ Buat sebuah program yang meminta pengguna memasukkan nilai ujian.
 * Jika nilainya antara 80 dan 89, tampilkan "B". 
 * Jika nilainya antara 70 dan 79, tampilkan "C". 
 * Jika nilainya antara 60 dan 69, tampilkan "D". 
-* Jika nilainya kurang dari 60, tampilkan "F"6.
+* Jika nilainya kurang dari 60, tampilkan "F".
 
 **Exercise #4: Perulangan (for dan while)**
 ---
