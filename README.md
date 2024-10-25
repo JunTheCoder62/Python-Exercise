@@ -43,5 +43,13 @@ Buat sebuah kamus (dictionary) yang berisi nama buah sebagai kunci dan harga bua
 ---
 Buat sebuah fungsi bernama is_even(n) yang menerima satu argumen berupa bilangan bulat n dan mengembalikan True jika bilangan tersebut genap, dan False jika ganjil.
 
+**Exercise #9: boolean**
+---
+1.Buat sebuah modul bernama math_operations.py 
+2.Isi fungsi-fungsi untuk penjumlahan, pengurangan, perkalian, dan pembagian dua angka
+3.Buat program utama yang mengimpor modul tersebut
+4.Gunakan untuk melakukan operasi pada dua bilangan yang dimasukkan oleh pengguna.
+
+
 
 # Congratulation for finishing this Exercise, you can see the Cheatsheet NOW !!!
